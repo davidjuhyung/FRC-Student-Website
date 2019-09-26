@@ -28,7 +28,12 @@ Secure coding. Prevents XSS (Cross-Scripting) attacks. Disables writing scripts 
 
 # Requirements
 Programming language: Java (Server web programming: JSP)
+
 IDE: Eclipse
+
 Database: MySql (MariaDB Connector for hosting services)
+
 Web Container: Tomcat
+
 Design Frameworks: Bootstrap, MDL, Google Fonts, Font Awesome (for icons)
+
