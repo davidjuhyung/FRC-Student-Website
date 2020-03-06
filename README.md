@@ -1,7 +1,7 @@
 # How did I come to think of this kind of project?
 The whole intention of this idea of creating the website was to really help out our student, help them to express their voices and opinions about our school and openly suggest the ideas of the grey areas where our school can improve on.
 
-My first initiative was heavily focused on something called course evaluation, more specifically online course evaluation. I wanted to find more efficient and effective way of communicating between the student body and the teacher body of our school. Course evaluation allowed students to freely share their honest experience with the courses they have taken - whether that is negative or positive -- it not only helps students to choose the best courses possible that meet their needs and interests -- but also helps the school to see the general opinion of the student body about certain courses.
+My first initiative was heavily focused on something called course evaluation, more specifically online course evaluation. I wanted to find more efficient and effective way of communicating between the studenta and teachers of our school. Course evaluation allowed students to freely share their honest experience with the courses they have taken - whether that is negative or positive -- it not only helps students to choose the best courses possible that meet their needs and interests -- but also helps the school to see the general opinion of the student body about certain courses.
 
 # Features: 
 Responsive Web page
